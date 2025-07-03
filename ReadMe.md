@@ -1,39 +1,94 @@
-# Hi there, I'm Muhamad Irgi 👋
+<!-- Banner Ragnarok X -->
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/ragnarok_x_next_generation/images/2/2d/Ragnarok_X_Next_Generation_banner.png" alt="Ragnarok X Banner" width="100%"/>
+</p>
 
-🎮 IT Student | Aspiring Mobile Developer | Game Enthusiast
+<h1 align="center">Hi there, I'm Muhamad Irgi <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" width="30"/></h1>
 
----
-
-## 👨‍💻 About Me
-
-- 📚 I'm an IT student who loves learning about the latest tech, especially in **mobile development** with **Flutter**.
-- 🕹️ Big fan of **Ragnarok X** and passionate about creating immersive games.
-- 🕶️ Currently working on a **3D VR Simulator game** as a school project – excited to dive into the world of virtual reality!
-- 🍿 In my free time, you'll find me watching movies, enjoying concerts, reading books, or listening to music.
-
----
-
-## 🚀 Skills & Tools
-
-- **Languages & Frameworks:**  
-  Flutter, Dart, a little bit of Unity & C#
-- **Interests:**  
-  Mobile Apps, Game Development, VR/AR, Creative Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/-IT%20Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Mobile%20Dev-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Game%20Enthusiast-ffc107?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Ragnarok%20X-E95420?style=flat-square" />
+</p>
 
 ---
 
-## 📌 Featured Project
+## 🎮 Ragnarok X Enthusiast | Dev & Gamer
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/ragnarok_x_next_generation/images/2/2d/Ragnarok_X_Next_Generation_banner.png" alt="Ragnarok X" width="250"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 IT student passionate about **mobile development** with **Flutter**.
+- ⚔️ Big fan of **Ragnarok X** and game development.
+- 🦇 Currently building a **3D VR Bat Game** as a school project (exploring virtual reality!).
+- 🎬 Movie & anime enjoyer, 📚 book reader, 🎵 music & concert lover.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Skill/Tool     | Level         |
+| -------------- | ------------- |
+| Flutter        | █████████░░ 80% |
+| Unity          | ███████░░░░ 60% |
+| VR / AR        | █████░░░░░░ 40% |
+| Dart           | ████████░░░ 70% |
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Ragnarok X Favorites
+
+- **Main Class:** Assassin Cross
+- **Favorite Map:** Prontera South Gate
+- **Best Pet:** Poring 🟣
+- **Guild:** [Noiruu](#)
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadirgi&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadirgi&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌟 Featured Project
 
 ### 🦇 3D VR Bat Game
-A virtual reality game project for school, exploring immersive experiences and creative gameplay.  
-*Stay tuned for updates and playable demos!*
+A virtual reality game project for school, exploring immersive experiences and creative gameplay.<br>
+<em>Stay tuned for updates and playable demos!</em>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fghiee_/)](https://www.instagram.com/fghiee_/)
+<p align="center">
+  <a href="https://instagram.com/fghiee_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/muhamadirgi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Keep exploring, keep creating.”
+<p align="center"><i>“Keep exploring, keep creating.”</i></p>
