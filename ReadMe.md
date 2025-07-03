@@ -1,6 +1,6 @@
 <!-- Banner Ragnarok X -->
 <p align="center">
-  <img src="https://cdn.mmoculture.com/mmo-images/2021/04/175997431_150636803667980_6701141483697477875_n.jpg" alt="Ragnarok X Banner" width="100%"/>
+  <img src="https://images.mobi.gg/uploads/2025/05/10860/ragnarok-banner.webp" alt="Ragnarok X Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Muhamad Irgi <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" width="30"/></h1>
@@ -17,7 +17,7 @@
 ## 🎮 Ragnarok X Enthusiast | Dev & Gamer
 
 <p align="center">
-  <img src="https://image.winudf.com/v2/image1/Y29tLnBsYXkucm9zZWFfYmFubmVyXzE2ODA1NjQyODNfMDU0/banner.jpg?fakeurl=1&w=600" alt="Ragnarok X" width="100%"/>
+  <img src="https://cdn.mmoculture.com/mmo-images/2021/04/175997431_150636803667980_6701141483697477875_n.jpg" alt="Ragnarok X Banner" alt="Ragnarok X" width="100%"/>
 </p>
 
 ---
