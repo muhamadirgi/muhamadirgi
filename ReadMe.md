@@ -1,6 +1,6 @@
 <!-- Banner Ragnarok X -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twitch.tv%2Fragnarokonlineoficial%2Fvideos&psig=AOvVaw2xAJUGTg9YKE5bIOYn1c7_&ust=1751614152273000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCcibyVoI4DFQAAAAAdAAAAABAE" alt="Ragnarok X Banner" width="100%"/>
+  <img src="https://static.wikia.nocookie.net/ragnarok_x_next_generation/images/2/2d/Ragnarok_X_Next_Generation_banner.png" alt="Ragnarok X Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Muhamad Irgi <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" width="30"/></h1>
@@ -17,7 +17,7 @@
 ## 🎮 Ragnarok X Enthusiast | Dev & Gamer
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmmos.com%2Fnews%2Fgravity-hiring-for-new-ragnarok-online-mobile-game-code-named-project-s&psig=AOvVaw2xAJUGTg9YKE5bIOYn1c7_&ust=1751614152273000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCcibyVoI4DFQAAAAAdAAAAABAf" alt="Ragnarok X" width="250"/>
+  <img src="https://image.winudf.com/v2/image1/Y29tLnBsYXkucm9zZWFfYmFubmVyXzE2ODA1NjQyODNfMDU0/banner.jpg?fakeurl=1&w=600" alt="Ragnarok X" width="250"/>
 </p>
 
 ---
@@ -51,10 +51,10 @@
 
 ## 🎯 Ragnarok X Favorites
 
-- **Main Class:** Assassin Cross
-- **Favorite Map:** Prontera South Gate
-- **Best Pet:** Poring 🟣
-- **Guild:** [Noiruu](#)
+- **Main Class:** Sniper
+- **Favorite Map:** Payon
+- **Best Pet:** Pheereoni 🟣
+- **Guild:** [Renegades](#)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## 🌟 Featured Project
 
-### 🦇 3D VR Bat Game
+### 🦇 3D VR Game
 A virtual reality game project for school, exploring immersive experiences and creative gameplay.<br>
 <em>Stay tuned for updates and playable demos!</em>
 
